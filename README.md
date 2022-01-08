@@ -1,7 +1,7 @@
 # Travel_Advisor
 
 - This React application will help the user to find nearby restaurants, Hotels and Attractions 
-- To view the application click on https://findnearby.netlify.app/
+- To view the application click on https://findnearbys.netlify.app/
 - Also, this will show the current weather of the particular location for the ease of planning of trip
 
 ## To Run this app on local computer use the following
